@@ -1,0 +1,21 @@
+﻿Contaminant,location,n_wells_tested,percent_wells_above_guideline,median,percentile_95,maximum,label_ypos
+Fluoride,Otis,60,30,1.13,3.2,3.6,30
+Arsenic,Otis,53,39.6,4.8,121.4,200,69.6
+Fluoride,Manchester,276,3.3,0.3,1.7,3.6,3.3
+Arsenic,Manchester,275,58.9,14,93,200,62.2
+Fluoride,Surry,175,18.3,0.8,3.525,6.9,18.3
+Arsenic,Surry,181,40.3,6,145.7,470,58.6
+Fluoride,Monmouth,288,3.1,0.3,1.676,3.4,3.1
+Arsenic,Monmouth,277,49.5,10,110,368,52.6
+Fluoride,Blue Hill,209,9.6,0.43,2.855,4.5,9.6
+Arsenic,Blue Hill,241,42.7,7,229,930,52.3
+Fluoride,Mercer,32,15.6,0.6,4.18,6.1,15.6
+Arsenic,Mercer,33,36.4,4.5,28.55,40,52
+Fluoride,Columbia,54,1.9,0.31,1.329,4.3,1.9
+Arsenic,Columbia,42,50,9.8,65.9,200,51.9
+Fluoride,Gorham,452,0,0.1,0.682,2,0
+Arsenic,Gorham,467,50.1,10.5,130,460,50.1
+Fluoride,Orland,151,8.6,0.4,2.3,3.6,8.6
+Arsenic,Orland,123,40.7,5.4,44.55,160,49.3
+Fluoride,Eliot,84,0,0.2,0.658,1.54,0
+Arsenic,Eliot,73,49.3,9.7,41.35,45,49.3
